@@ -5,7 +5,7 @@ const NavBar = () => {
     <nav className="nav">
       <div className="menu">
         <div className="menu-item active">
-          点菜<span className="menu-active-bar"></span>
+          order<span className="menu-active-bar"></span>
         </div>
         <div className="menu-item">
           评价<span className="menu-comment">1796</span>
